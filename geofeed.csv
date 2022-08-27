@@ -1,0 +1,9 @@
+# prefix,country_code,region_code,city,postal
+23.247.169.0/27,US,US-NY,New York City,
+23.247.169.32/27,US,US-VA,Ashburn,
+23.247.169.64/27,US,US-TX,Dallas,
+23.247.169.96/27,US,US-WA,Seattle,
+23.247.169.128/27,FR,FR-75C,Paris,
+23.247.169.160/27,DE,DE-HE,Frankfurt,
+23.247.169.192/27,NL,NL-NH,Amsterdam
+23.247.169.224/27,SG,SG-01,Singapore,
