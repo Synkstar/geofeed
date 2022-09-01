@@ -7,3 +7,6 @@
 23.247.169.160/27,DE,DE-HE,Frankfurt,
 23.247.169.192/27,NL,NL-NH,Amsterdam,
 23.247.169.224/27,SG,SG-01,Singapore,
+23.247.168.0/24,CA,CA-ON,Toronto,
+23.247.170.0/24,CA,CA-ON,Toronto,
+23.247.171.0/24,US,US-NY,New York City,
